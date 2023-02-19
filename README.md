@@ -26,8 +26,11 @@ Also, you can study the [source](https://raw.githubusercontent.com/curran/datavi
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
  * Which are the most popular cuisine types ordered?
+ 
  * Is there a correlation between delivery/preparation time and customer ratings?
+ 
  * Which restaurants receive the most orders? Which restaurants earn the most money from orders?
+ 
  * Are food orders/deliveries more common on weekends or weekdays?
 
 ## Sketches
@@ -41,10 +44,17 @@ I am concerned about the difficulty of creating a toggle button that will filter
 
 ## Milestones
 Week 7 - Find way to effectively display counts + labels on pie chart
+
 Week 8 - Create barcharts without filter toggles
+
 Week 9 - Create scatterplot/create new idea for that visualization
+
 Week 10 - Implement toggle feature on barchart
+
 Week 11 - Implement toggle feature on scatterplot/new visualization
+
 Week 12 - Work on adding additional visualization components if necessary
+
 Week 13 - Work on visualization aesthetics (color + text themes) 
+
 Week 14 - Finalize visualizations
