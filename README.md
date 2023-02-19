@@ -6,20 +6,9 @@ The data I propose to visualize for my project is information about food orders 
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a pie chart that shows the most popular cuisine types among these orders. Each cuisine type is specified by its own unique color and identified in the legend. 
+I’ve created a proof of concept visualization of this data. It's a pie chart that shows the most popular cuisine types by the number of orders. Each cuisine type is specified by its own unique color and identified in the legend. 
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can make images into links like this:
-
-```
-[![image](https://github.com/jjlaber/dataviz-project-template-proposal/Screenshot%202023-02-19%20184712.png))](https://vizhub.com/jjlaber/df931fe5e8e94515aac0b3305185ce97?edit=files&file=piechart.js)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
+[![image](https://github.com/jjlaber/dataviz-project-template-proposal/blob/fca93ab2d206aa49461d26c0b070ffc8fb12b54d/Screenshot%202023-02-19%20184712.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
 
 ## Questions & Tasks
 
