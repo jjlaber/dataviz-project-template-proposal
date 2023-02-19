@@ -15,7 +15,7 @@ I’ve created a proof of concept visualization of this data. It's a pie chart t
 You can make images into links like this:
 
 ```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+[![image](https://github.com/jjlaber/dataviz-project-template-proposal/Screenshot%202023-02-19%20184712.png))](https://vizhub.com/jjlaber/df931fe5e8e94515aac0b3305185ce97?edit=files&file=piechart.js)
 ```
 
 
