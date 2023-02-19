@@ -2,11 +2,11 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is information about food orders and deliveries from NYC restaurants, specifically those that go through the delivery app Foodhub. Here is the link to the dataset source: https://www.kaggle.com/datasets/ahsan81/food-ordering-and-delivery-app-dataset
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a pie chart that shows the most popular cuisine types among these orders. Each cuisine type is specified by its own unique color and identified in the legend. 
 
 [![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
 
@@ -25,10 +25,10 @@ Also, you can study the [source](https://raw.githubusercontent.com/curran/datavi
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * Which are the most popular cuisine types ordered?
+ * Is there a correlation between delivery/preparation time and customer ratings?
+ * Which restaurants receive the most orders? Which restaurants earn the most money from orders?
+ * Are food orders/deliveries more common on weekends or weekdays?
 
 ## Sketches
 
@@ -37,8 +37,14 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+I am concerned about the difficulty of creating a toggle button that will filter the data. I am also worried that the scatterplot may not show a clear correlation, and in that case I may have to consider another visualization in its place.
 
 ## Milestones
-
-(for each week, estimate what would be accomplised)
+Week 7 - Find way to effectively display counts + labels on pie chart
+Week 8 - Create barcharts without filter toggles
+Week 9 - Create scatterplot/create new idea for that visualization
+Week 10 - Implement toggle feature on barchart
+Week 11 - Implement toggle feature on scatterplot/new visualization
+Week 12 - Work on adding additional visualization components if necessary
+Week 13 - Work on visualization aesthetics (color + text themes) 
+Week 14 - Finalize visualizations
