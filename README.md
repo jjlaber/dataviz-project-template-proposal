@@ -26,21 +26,19 @@ The following tasks and questions will drive the visualization and interaction d
 
 My first sketch was my initial plan for the piechart, displaying the most popular cuisine types by number of orders. This would help answer the first question, identifying which cuisine types are more popular than others. 
 
-[![image](https://github.com/jjlaber/dataviz-project-template-proposal/blob/fca93ab2d206aa49461d26c0b070ffc8fb12b54d/Screenshot%202023-02-19%20184712.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-
-
+![image](https://github.com/jjlaber/dataviz-project-template-proposal/blob/1841f24238a98bf95499516966c145c421599a6b/Screenshot%202023-02-19%20190503.png)
 
 My second sketch, once iterated, is a scatterplot showing the relationship between both delivery and preparation time and customer rating. The hope is that this visualization will help display a correlation between the two variables, and possibly give delivery workers insight onto how delivery time can impact ratings.
 
-[![image](https://github.com/jjlaber/dataviz-project-template-proposal/blob/fca93ab2d206aa49461d26c0b070ffc8fb12b54d/Screenshot%202023-02-19%20184712.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+![image](https://github.com/jjlaber/dataviz-project-template-proposal/blob/1841f24238a98bf95499516966c145c421599a6b/Screenshot%202023-02-19%20190316.png)
 
 This next sketch is a simple barchart, which will display wether food orders are common on weekdays vs. weekends. 
 
-[![image](https://github.com/jjlaber/dataviz-project-template-proposal/blob/fca93ab2d206aa49461d26c0b070ffc8fb12b54d/Screenshot%202023-02-19%20184712.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+![image](https://github.com/jjlaber/dataviz-project-template-proposal/blob/1841f24238a98bf95499516966c145c421599a6b/Screenshot%202023-02-19%20191148.png)
 
-Lastly, this sketch is another barchart, that will display the top 5 most "popular" restaurants, both in terms of number of orders placed and total spent. This can help restaurants identify their top competition.
+Lastly, this sketch is another barchart, that will display the top 5 most "popular" restaurants, both in terms of number of orders placed and total spent. This can help restaurants identify their top competitors.
 
-[![image](https://github.com/jjlaber/dataviz-project-template-proposal/blob/fca93ab2d206aa49461d26c0b070ffc8fb12b54d/Screenshot%202023-02-19%20184712.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+![image](https://github.com/jjlaber/dataviz-project-template-proposal/blob/1841f24238a98bf95499516966c145c421599a6b/Screenshot%202023-02-19%20190241.png)
 
 
 
