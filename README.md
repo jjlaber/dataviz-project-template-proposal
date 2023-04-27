@@ -2,7 +2,7 @@
 
 ## Data
 
-Initially, the data I chose to visualize for my project was information about food orders and deliveries from NYC restaurants, specifically those that go through the delivery app Foodhub. The link to the github gist I created for this data is: 
+Initially, the data I chose to visualize for my project was information about food orders and deliveries from NYC restaurants, specifically those that go through the delivery app Foodhub. The link to the github gist I created for this data is: https://gist.github.com/jjlaber/054bd0ea2181f10aa2c7813264e50dee
 
 With further consideration, however, I decided to visualize historical data about bank failures in the US. I decided that this data was more relevant to current events and may be more useful to visualize. The link to the github gist I created for this data is: https://gist.github.com/jjlaber/5e97519bf57c60fbe2ac9895119263b1
 
